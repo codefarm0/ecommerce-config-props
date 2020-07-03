@@ -1,0 +1,6 @@
+redis:
+  server:
+    hostname: redistest
+    port: 637900
+  cacheManager:
+    expiration: 180000
