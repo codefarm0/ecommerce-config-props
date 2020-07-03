@@ -1,0 +1,10 @@
+products:
+  displayCount: 5
+  sortBy: name
+db:
+  server:
+    hostname: mongodb
+    port: 27017
+  database:
+    name: products
+    collectionName: products
