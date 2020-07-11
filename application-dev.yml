@@ -1,6 +1,6 @@
 redis:
   server:
-    hostname: redis12
+    host: redis12
     port: 6379
   cacheManager:
     expiration: 1800
